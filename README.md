@@ -1,1 +1,3 @@
-# Pixel-it
+# Pixelate
+<br>
+Team Members
